@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "seconde-test",
-    "slug": "seconde-test",
+    "name": "Attendance App",
+    "slug": "attendance-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

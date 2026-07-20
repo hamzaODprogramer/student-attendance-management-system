@@ -1,4 +1,4 @@
-rootProject.name = 'seconde-test'
+rootProject.name = 'AttendanceApp'
 
 dependencyResolutionManagement {
   versionCatalogs {
