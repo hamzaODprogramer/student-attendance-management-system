@@ -1,0 +1,42 @@
+{
+  "name": "detection-absence-admin-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mdi/js": "^7.4.47",
+    "@mdi/react": "^1.6.1",
+    "@mui/material": "^5.15.16",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.18",
+    "antd": "^5.17.0",
+    "material-ui-popup-state": "^5.1.0",
+    "mongoose": "^8.3.3",
+    "next": "14.2.3",
+    "next-intl": "^3.12.1",
+    "next-nprogress-bar": "^2.3.11",
+    "nextjs-toploader": "^1.6.12",
+    "nprogress": "^0.2.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-top-loading-bar": "^2.3.1",
+    "styled-components": "^6.1.9"
+  },
+  "devDependencies": {
+    "@types/ms": "^0.7.34",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,148 @@
+{
+    "Index": {
+      "title": "Hello world!"
+    },
+    "SideBar" : {
+      "Dashboard" : "Dashboard",
+      "AccountManagement" : "Account Management",
+      "Resources" : "Resources",
+      "Teachers" : "Teachers",
+      "Students" : "Students",
+      "Classes" : "Classes",
+      "Subjects" : "Subjects",
+      "Majors" : "Majors",
+      "Rooms" : "Rooms",
+      "Logout" : "Logout"
+    },
+    "Nav" : {
+      "Search" : "Search",
+      "Delete_all_notifications" : "Delete all notifications"
+    },
+    "Dashboard" : {
+      "Dashboard" : "Dashboard",
+      "Number_of_absences_per_month" : "Number of absences per month"
+    },
+    "Account" : {
+      "Account_management" : "Account management",
+      "Edit_administrator_account_information" : "Edit administrator account information",
+      "Username" : "Username",
+      "Password" : "Password",
+      "recovery_email" : "recovery email",
+      "save" : "save"
+    },
+    "Teacher" : {
+      "Teachers" : "Teachers",
+      "List_of_teachers" : "List of teachers",
+      "name" : "name",
+      "phone" : "phone",
+      "Form_for_adding_a_new_teacher" : "Form for adding a new teacher",
+      "upload_an_image" : "upload an image",
+      "reset" : "reset",
+      "First_name" : "First name",
+      "Second_name": "Second name",
+      "date_of_birth" : "Date of birth",
+      "Edit_Teacher_Information_Form" : "Edit Teacher Information Form",
+      "Teacher_Information" : "Teacher Information",
+      "Remove_teacher" : "Remove teacher",
+      "are_you_sure_?" : "are you sure ?",
+      "yes" : "yes",
+      "no" : "no",
+      "save" : "save"
+    },
+    "Student" : {
+      "Students" : "Students",
+      "List_of_students" : "List of students",
+      "name" : "name",
+      "phone" : "phone",
+      "Form_for_adding_a_new_student" : "Form for adding a new student",
+      "upload_an_image" : "upload an image",
+      "reset" : "reset",
+      "First_name" : "First name",
+      "Second_name": "Second name",
+      "date_of_birth" : "Date of birth",
+      "Edit_Student_Information_Form" : "Edit Student Information Form",
+      "Student_Information" : "Student Information",
+      "Remove_student" : "Remove student",
+      "are_you_sure_?" : "are you sure ?",
+      "yes" : "yes",
+      "no" : "no",
+      "save" : "save",
+      "Filter_by_classe" : "Filter by classe"
+    },
+    "Subjects" : {
+      "Subjects" : "Subjects",
+      "List_of_subjects" : "List of subjects",
+      "name" : "name",
+      "majors" : "majors",
+      "Form_for_adding_a_new_subject" : "Form for adding a new subject",
+      "name_of_subject" : "name of subject",
+      "Edit_Subject_Information_Form" : "Edit Subject Information Form",
+      "Remove_subject" : "Remove subject",
+      "are_you_sure_?" : "are you sure ?",
+      "yes" : "yes",
+      "no" : "no",
+      "save" : "save"
+    },
+    "Classe" : {
+      "Classes" : "Classes",
+      "List_of_classes" : "List of classes",
+      "number" : "number",
+      "majors" : "majors",
+      "Form_for_adding_a_new_classe" : "Form for adding a new classe",
+      "number_of_classe" : "number of classe",
+      "Edit_Classe_Information_Form" : "Edit Classe Information Form",
+      "Remove_classe" : "Remove classe",
+      "are_you_sure_?" : "are you sure ?",
+      "yes" : "yes",
+      "no" : "no",
+      "save" : "save"
+    },
+    "Majors" : {
+      "Majors" : "Majors",
+      "List_of_Majors" : "List of majors",
+      "name" : "name",
+      "subjects" : "subjects",
+      "Form_for_adding_a_new_Majors" : "Form for adding a new majors",
+      "name_of_majors" : "name of majors",
+      "Edit_Majors_Information_Form" : "Edit Majors Information Form",
+      "Remove_Majors" : "Remove Majors",
+      "are_you_sure_?" : "are you sure ?",
+      "yes" : "yes",
+      "no" : "no",
+      "save" : "save"
+    },
+    "Room" : {
+      "Rooms" : "Rooms",
+      "List_of_Rooms" : "List of rooms",
+      "number" : "number",
+      "type_of_room" : "type of room",
+      "number_of_places" : "number of places",
+      "Form_for_adding_a_new_Room" : "Form for adding a new Room",
+      "number_of_room" : "number of room",
+      "Edit_Room_Information_Form" : "Edit Room Information Form",
+      "Remove_Room" : "Remove Room",
+      "are_you_sure_?" : "are you sure ?",
+      "yes" : "yes",
+      "no" : "no",
+      "save" : "save"
+    },
+    "Container" : {
+      "add" : "add",
+      "search":"search",
+      "Filter_by_class":"Filter by class",
+      "Filter_by_Majors":"Filter by Majors"
+    },
+    "Login" : {
+      "Sign_into_your_account" : "Sign into your account",
+      "Username" : "Username",
+      "Password" : "Password",
+      "login" : "login",
+      "Forgot_Password_?" : "Forgot Password ?",
+      "Remembre_Me":"Remembre Me"
+    },
+    "Reset" : {
+      "Enter_your_email_to_recover_your_account" : "Enter your email to recover your account",
+      "recovery_email" : "recovery email",
+      "validate" : "validate"
+    }
+  }

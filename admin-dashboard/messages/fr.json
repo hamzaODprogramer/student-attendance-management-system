@@ -1,0 +1,149 @@
+{
+  "Index": {
+    "title": "Hello world!"
+  },
+  "SideBar" : {
+    "Dashboard" : "Table de board",
+    "AccountManagement" : "Gestion de compte",
+    "Resources" : "Ressources",
+    "Teachers" : "Enseignants",
+    "Students" : "Étudiants",
+    "Classes" : "Classes",
+    "Subjects" : "Matières",
+    "Majors" : "Filières",
+    "Rooms" : "Salles",
+    "Logout" : "Déconnexion"
+  },
+  "Nav" : {
+    "Search" : "Recherche",
+    "Delete_all_notifications" : "Supprimer toutes les notifications"
+  },
+  "Dashboard" : {
+    "Dashboard" : "Table de board",
+    "Number_of_absences_per_month" : "Nombre d'absences par mois"
+  },
+  "Account": {
+    "Account_management": "Gestion de compte",
+    "Edit_administrator_account_information": "Modifier les informations du compte administrateur",
+    "Username": "Nom d'utilisateur",
+    "Password": "Mot de passe",
+    "recovery_email": "email de récupération",
+    "save": "sauvegarder"
+  },
+  "Teacher": {
+    "Teachers": "Enseignants",
+    "List_of_teachers": "Liste des enseignants",
+    "name": "nom",
+    "phone": "téléphone",
+    "Form_for_adding_a_new_teacher": "Formulaire d'ajout d'un nouvel enseignant",
+    "upload_an_image": "Télécharger une image",
+    "reset": "Réinitialiser",
+    "First_name": "Prénom",
+    "Second_name": "Nom de famille",
+    "date_of_birth": "Date de naissance",
+    "Edit_Teacher_Information_Form": "Formulaire de modification des informations de l'enseignant",
+    "Teacher_Information": "Informations sur l'enseignant",
+    "Remove_teacher": "Supprimer l'enseignant",
+    "are_you_sure_?": "Êtes-vous sûr(e) ?",
+    "yes": "oui",
+    "no": "non",
+    "save" : "sauvegarder"
+  },
+  "Student": {
+    "Students": "Étudiants",
+    "List_of_students": "Liste des étudiants",
+    "name": "nom",
+    "phone": "téléphone",
+    "Form_for_adding_a_new_student": "Formulaire d'ajout d'un nouvel étudiant",
+    "upload_an_image": "Télécharger une image",
+    "reset": "Réinitialiser",
+    "First_name": "Prénom",
+    "Second_name": "Nom de famille",
+    "date_of_birth": "Date de naissance",
+    "Edit_Student_Information_Form": "Formulaire de modification des informations de l'étudiant",
+    "Student_Information": "Informations sur l'étudiant",
+    "Remove_student": "Supprimer l'étudiant",
+    "are_you_sure_?": "Êtes-vous sûr(e) ?",
+    "yes": "oui",
+    "no": "non",
+    "save": "sauvegarder",
+    "Filter_by_classe": "Filtrer par classe"
+  },
+  "Subjects": {
+    "Subjects": "Matières",
+    "List_of_subjects": "Liste des matières",
+    "name": "nom",
+    "majors": "filières",
+    "Form_for_adding_a_new_subject": "Formulaire d'ajout d'une nouvelle matière",
+    "Edit_Subject_Information_Form": "Formulaire de modification des informations de la matière",
+    "Subject_Information": "Informations sur la matière",
+    "Remove_subject": "Supprimer la matière",
+    "are_you_sure_?": "Êtes-vous sûr(e) ?",
+    "name_of_subject" : "nom de matière",
+    "yes": "oui",
+    "no": "non",
+    "save": "sauvegarder"
+  },
+  "Classe": {
+    "Classes": "Classes",
+    "List_of_classes": "Liste des classes",
+    "number": "numéro",
+    "majors": "filières",
+    "Form_for_adding_a_new_classe": "Formulaire d'ajout d'une nouvelle classe",
+    "number_of_classe": "nombre de classe",
+    "Edit_Classe_Information_Form": "Formulaire de modification des informations de la classe",
+    "Remove_classe": "Supprimer la classe",
+    "are_you_sure_?": "Êtes-vous sûr(e) ?",
+    "yes": "oui",
+    "no": "non",
+    "save": "sauvegarder"
+  },
+  "Majors": {
+    "Majors": "Filières",
+    "List_of_Majors": "Liste des Filières",
+    "name": "nom",
+    "subjects": "matières",
+    "Form_for_adding_a_new_Majors": "Formulaire d'ajout d'un nouveau filières",
+    "name_of_majors": "nom du filière",
+    "Edit_Majors_Information_Form": "Formulaire de modification des informations du filière",
+    "Remove_Majors": "Supprimer le filière",
+    "are_you_sure_?": "Êtes-vous sûr(e) ?",
+    "yes": "oui",
+    "no": "non",
+    "save": "sauvegarder"
+  },
+  "Room": {
+    "Rooms": "Salles",
+    "List_of_Rooms": "Liste des salles",
+    "number": "numéro",
+    "type_of_room": "type de salle",
+    "number_of_places": "nombre de places",
+    "Form_for_adding_a_new_Room": "Formulaire d'ajout d'une nouvelle salle",
+    "number_of_room": "numéro de salle",
+    "Edit_Room_Information_Form": "Formulaire de modification des informations de la salle",
+    "Remove_Room": "Supprimer la salle",
+    "are_you_sure_?": "Êtes-vous sûr(e) ?",
+    "yes": "oui",
+    "no": "non",
+    "save": "sauvegarder"
+  },
+  "Container": {
+    "add": "ajouter",
+    "search": "rechercher",
+    "Filter_by_class": "Filtrer par classe",
+    "Filter_by_Majors": "Filtrer par majeurs"
+  },
+  "Login": {
+    "Sign_into_your_account": "Connectez-vous à votre compte",
+    "Username": "Nom d'utilisateur",
+    "Password": "Mot de passe",
+    "login": "connexion",
+    "Forgot_Password_?": "Mot de passe oublié ?",
+    "Remembre_Me": "Se souvenir de moi"
+  },
+  "Reset": {
+    "Enter_your_email_to_recover_your_account": "Entrez votre adresse e-mail pour récupérer votre compte",
+    "recovery_email": "e-mail de récupération",
+    "validate": "valider"
+  }
+}
